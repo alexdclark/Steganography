@@ -37,7 +37,7 @@ int main(){
   cout<<" |                                        |" <<endl;
   cout<<" |[1] Encrypt a text file into a picture  |" <<endl;
   cout<<" |[2] Decipher a picture to extract data  |" <<endl;
-  cout<<" |[3] cleanImage [Zeroes out bits]        |" <<endl;
+  cout<<" |[3] Clean Image [Removes Text Data]     |" <<endl;
   cout<<" |[4] readCipher and printCipher          |" <<endl;
   cout<<" |[5] readImage and printImage            |" <<endl;
   cout<<" |[6] Exit the program                    |" <<endl;
