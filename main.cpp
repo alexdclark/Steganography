@@ -42,7 +42,7 @@ int main(){
   cout<<" |[5] readImage and printImage            |" <<endl;
   cout<<" |[6] Exit the program                    |" <<endl;
   cout<<" |                                        |" <<endl;
-  cout<<" |      Created by Alexander Clark        |" <<endl;
+  cout<<" |      Created by Alex Clark             |" <<endl;
   cout<<" ------------------------------------------" <<endl;
   
   //Asking the user what they want to do 
