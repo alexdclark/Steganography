@@ -113,8 +113,6 @@ class Steganography {
    * Preconditions:
    *    Plaintext data has been read back from color_data and stored in ciphertext.
    */
-  
-
 };
 
 #endif
